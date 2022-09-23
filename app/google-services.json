@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "653267763252",
+    "project_id": "strangertalks-587ee",
+    "storage_bucket": "strangertalks-587ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653267763252:android:565743817b98a1175e4a61",
+        "android_client_info": {
+          "package_name": "com.bhavik.strangertalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653267763252-hj74mtm5gout5el96npb85hsnt2ht0ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhavik.strangertalks",
+            "certificate_hash": "71f9b50de4ac13141bf7b5c5b32e46b8fc3af082"
+          }
+        },
+        {
+          "client_id": "653267763252-bo6kjmrffkr5n8cs5nomjth0ncd9ttlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuj-BG0-ckkt0Z_7VgJ_pFvg3VnRMDAGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653267763252-bo6kjmrffkr5n8cs5nomjth0ncd9ttlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
